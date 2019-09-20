@@ -9,10 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides.springboot</groupId>
-	<artifactId>springboot-thymeleaf-crud-tutorial</artifactId>
+	<artifactId>magazine-publication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-thymeleaf-crud-tutorial</name>
-	<description>springboot-thymeleaf-crud-tutorial</description>
+	<name>magazine-publication</name>
+	<description>Magazine Publications</description>
+	<packaging>jar</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
