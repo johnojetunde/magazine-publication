@@ -1,7 +1,7 @@
-# springboot-thymeleaf-crud-tutorial
-Spring boot 2 + Thymeleaf CRUD Tutorial
+# Magazine-Publication
+Magazine-Publication  
 
-https://www.javaguides.net/2019/04/spring-boot-thymeleaf-crud-example-tutorial.html
-
-
-https://www.javaguides.net/2019/04/spring-mvc-thymeleaf-crud-example-tutorial.html
+**Build and Run**
+1. To run, build into a jar
+2. navigate to the target folder
+3. type in the following command and run: `java -jar magazine-publication-0.0.1-SNAPSHOT.jar`
