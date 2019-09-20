@@ -1,4 +1,4 @@
-package net.javaguides.springboot.tutorial.controller;
+package com.olajide.salawu.controller;
 
 import javax.validation.Valid;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import net.javaguides.springboot.tutorial.entity.Student;
-import net.javaguides.springboot.tutorial.repository.StudentRepository;
+import com.olajide.salawu.entity.Student;
+import com.olajide.salawu.repository.StudentRepository;
 
 @Controller
 @RequestMapping("/students/")
