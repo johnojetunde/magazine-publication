@@ -2,6 +2,5 @@
 Magazine-Publication  
 
 **Build and Run**
-1. To run, build into a jar
-2. navigate to the target folder
-3. type in the following command and run: `java -jar magazine-publication-0.0.1-SNAPSHOT.jar`
+1. build into a jar using your IDE
+2. Run the app or navigate to the target folder and execute the following command `java -jar magazine-publication-0.0.1-SNAPSHOT.jar`
