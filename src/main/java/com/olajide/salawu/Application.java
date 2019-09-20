@@ -1,4 +1,4 @@
-package net.javaguides.springboot.tutorial;
+package com.olajide.salawu;
 
 import org.springframework.boot.SpringApplication;
 

@@ -1,11 +1,11 @@
-package net.javaguides.springboot.tutorial.repository;
+package com.olajide.salawu.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import net.javaguides.springboot.tutorial.entity.Student;
+import com.olajide.salawu.entity.Student;
 
 @Repository
 public interface StudentRepository extends CrudRepository<Student, Long> {

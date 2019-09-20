@@ -1,4 +1,4 @@
-package net.javaguides.springboot.tutorial.entity;
+package com.olajide.salawu.entity;
 
 
 import javax.persistence.Column;

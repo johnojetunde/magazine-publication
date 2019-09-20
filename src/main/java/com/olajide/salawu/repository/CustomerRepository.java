@@ -1,6 +1,6 @@
-package net.javaguides.springboot.tutorial.repository;
+package com.olajide.salawu.repository;
 
-import net.javaguides.springboot.tutorial.entity.Customer;
+import com.olajide.salawu.entity.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

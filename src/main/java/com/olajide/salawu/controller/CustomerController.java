@@ -1,7 +1,7 @@
-package net.javaguides.springboot.tutorial.controller;
+package com.olajide.salawu.controller;
 
-import net.javaguides.springboot.tutorial.entity.Customer;
-import net.javaguides.springboot.tutorial.repository.CustomerRepository;
+import com.olajide.salawu.entity.Customer;
+import com.olajide.salawu.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
